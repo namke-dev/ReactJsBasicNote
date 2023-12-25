@@ -1,11 +1,11 @@
-import Hello from "./component/Hello"
-import ListFruits from "./component/ListFruits"
+import Counter from "./component/Counter"
+
 
 
 function App() {
   return (
     <>
-      <ListFruits></ListFruits>
+      <Counter></Counter>
     </>
   )
 }
