@@ -1,11 +1,11 @@
-import Counter from "./component/Counter"
+import Form from "./component/Form"
 
 
 
 function App() {
   return (
     <>
-      <Counter></Counter>
+      <Form></Form>
     </>
   )
 }
